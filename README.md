@@ -1,1 +1,1 @@
-everything is taken directly from the site https://violetproject.net directly besides the discord rpc integration, so it should have compatibility with all future updates of violetproject 
+pretty much everything is taken directly from the site https://violetproject.net directly besides the discord rpc integration, so it should have compatibility with all future updates of violetproject 
